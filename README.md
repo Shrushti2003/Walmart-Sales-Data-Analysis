@@ -114,7 +114,7 @@ For the first row in the database:
 - **Gross Margin Percentage:** \( \frac{16.0265}{336.5565} \approx 4.76\% \)
 
 ## Code
-For the complete SQL code, refer to the [Walmart sql Project](C:/C++%20Main%20Projects%20(Gtihub)/MY%20SQL%20Project) file.
+For the complete SQL code, refer to the [Walmart SQL Project](./Walmart%20sql%20Project.sql).
 
 ### Example SQL Statements
 ```sql
